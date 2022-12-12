@@ -1,0 +1,22 @@
+[
+    {
+        "to": "/documentation/",
+        "name": "Documentation"
+    },
+    {
+        "to": "/releases/",
+        "name": "Releases"
+    },
+    {
+        "to": "/projects/",
+        "name": "Projects"
+    },
+    {
+        "to": "/events/",
+        "name": "Events"
+    },
+    {
+        "to": "/community/",
+        "name": "Community"
+    }
+]
